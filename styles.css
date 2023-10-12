@@ -318,7 +318,7 @@ h1{
     font-weight: var(--font-weight-2);
     color: var(--dark-blue);
     margin: 0 auto;
-    padding: 1rem 2rem;
+    padding: 3rem 2rem 0 2rem;
 }
 .subtitle{
     color: var(--dark-blue);
